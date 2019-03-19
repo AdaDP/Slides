@@ -10,4 +10,4 @@ IoT slides, NJU
 * DSP_foundations.pdf
 
 ## homework
-* h
+* hw-1.pdf
