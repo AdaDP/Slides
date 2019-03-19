@@ -6,7 +6,7 @@ IoT slides, NJU
 * linear_algebra_3_2017.pdf
 
 ## class 2
-* lec1.pdf
+* lec1_v2.pdf
 * DSP_foundations.pdf
 
 ## homework
