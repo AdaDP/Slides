@@ -9,5 +9,8 @@ IoT slides, NJU
 * lec1_v2.pdf
 * DSP_foundations.pdf
 
+## class 3
+* model_comp.pptx
+
 ## homework
 * hw-1.pdf
