@@ -14,3 +14,6 @@ IoT slides, NJU
 
 ## homework
 * hw-1.pdf
+
+## class 4
+* sensor_android_overview.pptx
