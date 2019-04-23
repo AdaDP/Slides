@@ -17,3 +17,7 @@ IoT slides, NJU
 
 ## class 4
 * sensor_android_overview.pptx
+
+## class 5
+* 3_2_ranging_part1.pptx
+* 3_2_ranging_part2.pptx
